@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "679933843817",
+    "firebase_url": "https://api-project-679933843817.firebaseio.com",
+    "project_id": "api-project-679933843817",
+    "storage_bucket": "api-project-679933843817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679933843817:android:288bdadeed1857fac285f8",
+        "android_client_info": {
+          "package_name": "studio.inprogress.yetanothertestapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679933843817-ln5e6dhoalh4bjfgc2m69ej690ulr3mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3W7MGgeeP6Yc-DJeXSnnQqZNGBbxx9Xo"
+        },
+        {
+          "current_key": "AIzaSyDcVnrvI_DidpGxMVekAc5fBivRoDSsjcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679933843817-ln5e6dhoalh4bjfgc2m69ej690ulr3mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
